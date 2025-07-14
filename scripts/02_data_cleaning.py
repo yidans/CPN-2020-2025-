@@ -42,7 +42,7 @@ def normalize_unified_assignees(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def main():
-    filepath = "/Users/toyhtoza/Desktop/patents_2020_2025.csv"
+    filepath = "PATH"
     df = load_data(filepath)
     print(f"Original shape: {df.shape}")
     df = normalize_unified_assignees(df)
@@ -52,8 +52,6 @@ def main():
     ].unique()
     print("Remaining unmapped assignees (up to 15):", unmapped[:15])
 
-    # Optionally, save the cleaned data
-    # df.to_csv("/path/to/cleaned_patents.csv", index=False)
 
 if __name__ == "__main__":
     main()
