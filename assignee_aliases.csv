@@ -1,0 +1,67 @@
+observed_name,canonical_form,relationship_type
+"Baidu, Inc.",Baidu,legal_entity
+"BEIJING BAIDU NETCOM SCIENCE TECHNOLOGY CO., LTD.",Baidu,legal_entity
+"BAIDU ONLINE NETWORK TECHNOLOGY (BEIJING) CO., LTD.",Baidu,legal_entity
+Alibaba Group Holding Limited,Alibaba,legal_entity
+"ALIBABA (CHINA) CO., LTD.",Alibaba,legal_entity
+"Alibaba Damo (Hangzhou) Technology Co., Ltd.",Alibaba,legal_entity
+"Alibaba Cloud Computing Co., Ltd.",Alibaba,legal_entity
+Alibaba Singapore Holding Private Limited,Alibaba,legal_entity
+ALIBABA TECHNOLOGY (ISRAEL) LTD.,Alibaba,legal_entity
+Alibaba Innovation Private Limited,Alibaba,legal_entity
+Tencent Holdings Ltd.,Tencent,legal_entity
+TENCENT AMERICA LLC,Tencent,legal_entity
+TENCENT TECHNOLOGIES (SHENZHEN) COMPANY LIMITED,Tencent,legal_entity
+"TENCENT CLOUD COMPUTING (BEIJING) CO., LTD.",Tencent,legal_entity
+"Tencent Music Entertainment Technology (Shenzhen) Co., Ltd.",Tencent,legal_entity
+ByteDance Ltd.,ByteDance,legal_entity
+"BEIJING BYTEDANCE NETWORK TECHNOLOGY CO., LTD.",ByteDance,legal_entity
+"TIANJIN BYTEDANCE TECHNOLOGY CO., LTD.",ByteDance,legal_entity
+"Beijing Zitiao Network Technology Co., Ltd.",ByteDance,legal_entity
+BYTEDANCE INC.,ByteDance,legal_entity
+Google LLC,Google,legal_entity
+Google Inc.,Google,legal_entity
+GOOGLE TECHNOLOGY HOLDINGS LLC,Google,legal_entity
+"Alphabet Communications, Inc.",Google,legal_entity
+Alphabet Inc.,Google,legal_entity
+"Meta Platforms, Inc.",Meta,legal_entity
+"Facebook, Inc.",Meta,legal_entity
+"Meta Platforms Technologies, LLC",Meta,legal_entity
+"Facebook Technologies, LLC",Meta,legal_entity
+Apple Inc.,Apple,legal_entity
+"Amazon.com, Inc.",Amazon,legal_entity
+"Amazon Technologies, Inc.",Amazon,legal_entity
+"Amazon Technology, Inc.",Amazon,legal_entity
+Microsoft Corporation,Microsoft,legal_entity
+"MICROSOFT TECHNOLOGY LICENSING, LLC",Microsoft,legal_entity
+"Microsoft Licensing Technology, LLC",Microsoft,legal_entity
+"OpenAI, Inc.",OpenAI,legal_entity
+"OpenAi OPCo, LLC.",OpenAI,legal_entity
+Anthropic PBC,Anthropic,legal_entity
+"Hugging Face, Inc.",Hugging Face,legal_entity
+"Cohere Technologies, Inc.",Cohere,legal_entity
+NVIDIA CORPORATION,Nvidia,legal_entity
+"NVIDIA Technologies, Inc.",Nvidia,legal_entity
+Nvidia Denmark ApS,Nvidia,legal_entity
+Nvidia Technology UK Limited,Nvidia,legal_entity
+"Tesla, Inc.",Tesla,legal_entity
+"Tesla Motors, Inc.",Tesla,legal_entity
+Tesla Motors Canada ULC,Tesla,legal_entity
+TESLA GROHMANN AUTOMATION GMBH,Tesla,legal_entity
+"Uber Technologies, Inc.",Uber,legal_entity
+"Uber Technology, Inc.",Uber,legal_entity
+UBER HOLDINGS LIMITED,Uber,legal_entity
+Waymo LLC,Waymo,legal_entity
+IBM Corporation,IBM,legal_entity
+IBM INTERNATIONAL GROUP BV,IBM,legal_entity
+Intel Corporation,Intel,legal_entity
+Intel NDTM US LLC,Intel,legal_entity
+Intel IP Corporation,Intel,legal_entity
+Intel Germany GmbH & Co. KG,Intel,legal_entity
+QUALCOMM Incorporated,Qualcomm,legal_entity
+"QUALCOMM Technologies, Inc.",Qualcomm,legal_entity
+Adobe Inc.,Adobe,legal_entity
+Oracle Corporation,Oracle,legal_entity
+Oracle International Corporation,Oracle,legal_entity
+ORACLE SYSTEMS CORPORATION,Oracle,legal_entity
+Oracle Financial Services Software Limited,Oracle,legal_entity
